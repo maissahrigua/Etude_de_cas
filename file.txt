@@ -4,5 +4,13 @@ Feature 3 modifier par yassine
 Feature 03 modifier par yassine 
 Feature 04 pushed by nourdine.
 Feature 5 modification
+<<<<<<< HEAD
+Feature 6 modifier by maissa
+feature 7 modifier by ghizlen
+=======
 Feature 6 modifier by maissa 2
+<<<<<<< HEAD
 Feature 7 nourdine
+=======
+>>>>>>> 9b1b541e45eb6f9fbaa46a6ff9b89fd2700538ab
+>>>>>>> 95567c10841336d54207eabb3215bd519d5c071b
