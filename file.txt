@@ -9,6 +9,13 @@ Feature 6 modifier by maissa
 feature 7 modifier by ghizlen
 =======
 Feature 6 modifier by maissa 2
+<<<<<<< HEAD
+Feature 7 nourdine
+=======
 >>>>>>> 9b1b541e45eb6f9fbaa46a6ff9b89fd2700538ab
+<<<<<<< HEAD
 
 Feature 12 yassine
+=======
+>>>>>>> 95567c10841336d54207eabb3215bd519d5c071b
+>>>>>>> 2edba76166ea0195f61b26248fe32759705bd8de
